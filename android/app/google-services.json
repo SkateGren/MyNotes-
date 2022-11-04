@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675877122778",
+    "project_id": "menotes-test-flutter-sk",
+    "storage_bucket": "menotes-test-flutter-sk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675877122778:android:0ca5e5a5667b885c21abe3",
+        "android_client_info": {
+          "package_name": "com.sergeyKlyuchnikov.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675877122778-stilcvkse832davl8l24oaqt30359r98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAit8b7CLbyExyc0AlGm2Hr1OOAeqduho4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675877122778-stilcvkse832davl8l24oaqt30359r98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
